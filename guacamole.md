@@ -1,5 +1,5 @@
-#Ingredients
-- avocado
--lime
--salt
+# Ingredients
+- avocado (1.35)
+- lime (0.64)
+- salt (2
 #Instructions
